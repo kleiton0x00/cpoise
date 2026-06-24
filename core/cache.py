@@ -15,6 +15,7 @@ CACHE_KEYWORDS = [
     "X-Varnish",
     "X-Check-Cacheable",
     "X-Cache-Lookup",
+    "X-Hcdn-Cache-Status"
 ]
 
 PREVENT_CACHE_KEYWORDS = [
